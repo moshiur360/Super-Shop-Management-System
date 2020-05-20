@@ -1,0 +1,45 @@
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\bin\Debug\Super Shop Management System.exe.config
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\bin\Debug\Super Shop Management System.exe
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\bin\Debug\Super Shop Management System.pdb
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.csprojAssemblyReference.cache
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.Properties.Resources.resources
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.csproj.GenerateResource.cache
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.exe
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.pdb
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.CreateAccountForm.resources
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\bin\Debug\Management.mdf
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\bin\Debug\Management_log.ldf
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.LogIn.resources
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.AdminInterface.resources
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.UserInterface.resources
+C:\Users\Mahadi\Downloads\Compressed\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.exe
+C:\Users\Mahadi\Downloads\Compressed\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.pdb
+C:\Users\Mahadi\source\repos\Super Shop Management System\Super Shop Management System\bin\Debug\Management.mdf
+C:\Users\Mahadi\source\repos\Super Shop Management System\Super Shop Management System\bin\Debug\Management_log.ldf
+C:\Users\Mahadi\source\repos\Super Shop Management System\Super Shop Management System\bin\Debug\Super Shop Management System.exe.config
+C:\Users\Mahadi\source\repos\Super Shop Management System\Super Shop Management System\bin\Debug\Super Shop Management System.exe
+C:\Users\Mahadi\source\repos\Super Shop Management System\Super Shop Management System\bin\Debug\Super Shop Management System.pdb
+C:\Users\Mahadi\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.csprojAssemblyReference.cache
+C:\Users\Mahadi\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.AdminInterface.resources
+C:\Users\Mahadi\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.CreateAccountForm.resources
+C:\Users\Mahadi\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.LogIn.resources
+C:\Users\Mahadi\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.Properties.Resources.resources
+C:\Users\Mahadi\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.UserInterface.resources
+C:\Users\Mahadi\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.csproj.GenerateResource.cache
+C:\Users\Mahadi\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\Mahadi\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.exe
+C:\Users\Mahadi\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.pdb
+C:\Users\iftek\source\repos\Super Shop Management System\Super Shop Management System\bin\Debug\Super Shop Management System.exe.config
+C:\Users\iftek\source\repos\Super Shop Management System\Super Shop Management System\bin\Debug\Super Shop Management System.exe
+C:\Users\iftek\source\repos\Super Shop Management System\Super Shop Management System\bin\Debug\Super Shop Management System.pdb
+C:\Users\iftek\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.AdminInterface.resources
+C:\Users\iftek\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.CreateAccountForm.resources
+C:\Users\iftek\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.LogIn.resources
+C:\Users\iftek\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.Properties.Resources.resources
+C:\Users\iftek\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.UserInterface.resources
+C:\Users\iftek\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.csproj.GenerateResource.cache
+C:\Users\iftek\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\iftek\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.exe
+C:\Users\iftek\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.pdb
+C:\Users\iftek\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.csprojAssemblyReference.cache

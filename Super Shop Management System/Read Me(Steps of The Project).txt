@@ -1,0 +1,25 @@
+Steps of The Project :
+
+Step1:  Employee/User will create their account.
+
+Step2:  The manager has to either approve or reject their account creation request. 
+
+Step3:  They(user/employee) will log in, using their username and password.
+
+Step4:  The manager can remove an employee/user.
+
+Step5:  From "Product Management" tab, the manager can add a product with its details.
+
+Step6:  From "Product Management" tab, the manager can also remove a product.
+
+Step7:  From "Product Management" tab, the manager can update a products price and quantity.
+
+Step8:  From "Product Management" tab, all the added items/the final product lists could be viewed.
+
+Step9:  In the "Product" tab, the selected products of the customer can be viewed.
+
+Step10: From the "Discount" tab, promo code could be added for discount.
+
+Step11: The "Reciept Area" tab is the billing section.
+
+Step12: In the "Customer" tab, customer information could be added.
